@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+}
+.box{
+    height: 200px;
+    width: 300px;
+    border:2px solid red;
+   /*text-align: center;*/
+}
+p{
+   /* text-decoration: overline;*/
+    font-size: 1.25ren;
+    text-transform: uppercase ;
+   /* text-indent: 32px;*/
+    /*letter-spacing: 10px;*/
+    /*line-height:30px;*/
+
+
+}
+
+a{
+   /* text-decoration: underline;*/
+   /* text-decoration-color:red;*/
+    font-size: 2ren;
+    text-decoration: none;
+    color:transparent;
+    text-shadow: 4px 4px 5px red;
+   /* text-decoration-style: wavy;*/
+}
